@@ -6,16 +6,8 @@
   "scripts": {
     "start": "node ./src/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ninshad/emart-backend.git"
-  },
   "author": "Ninshad",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ninshad/emart-backend/issues"
-  },
-  "homepage": "https://github.com/Ninshad/emart-backend#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
