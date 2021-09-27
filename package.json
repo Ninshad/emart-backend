@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ninshad/emart.git"
+    "url": "git+https://github.com/Ninshad/emart-backend.git"
   },
   "author": "Ninshad",
   "license": "ISC",
