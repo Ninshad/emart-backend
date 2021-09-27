@@ -13,9 +13,9 @@
   "author": "Ninshad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ninshad/emart/issues"
+    "url": "https://github.com/Ninshad/emart-backend/issues"
   },
-  "homepage": "https://github.com/Ninshad/emart#readme",
+  "homepage": "https://github.com/Ninshad/emart-backend#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
